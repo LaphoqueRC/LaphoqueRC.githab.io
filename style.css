@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+
+@font-face{
+    font-family: "Practicum_LD";
+    src: url("Practicum.woff2"),
+    url("Practicum.woff");
+    font-weight: 300;
+    font-display: swap;
+    font-size: normal;
+}
+
+#shr{
+    font-size: 20px;
+    font-family: 'Practicum_LD', sans-serif;
+    text-align: center;
+    border: black 1px solid;
+    margin: 5px 0cm 0cm 4cm;
+    background-color:rgba(255, 165, 80, 0.158);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.txt{
+    font-family: 'Practicum_LD', sans-serif;
+    border: black 1px solid;
+    padding: 5px;
+    margin-right: 85%;
+}
+
+#tow{
+    font-family: 'Practicum_LD', sans-serif;
+    border: black 1px solid;
+    margin-right: 89%;
+    margin-left: -8mm;
+}
+
+#im1{
+    margin: -300px 0cm 0px 0cm;
+}
+
+.slc:hover{
+    color: black;
+}
+
+.mlr{
+    border: black 1px solid;
+    margin-left: 11%;
+    margin: -2cm 0cm 0cm 4cm;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
